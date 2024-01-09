@@ -14,7 +14,7 @@ jobs:
         id: fetch-caddy-config
         run: |
           caddy_config=$(flyctl ssh console --command 'cat /config/caddy/autosave.json')
-          echo "$caddy_config" > caddy-config.json
+          echo "$caddy_config" | jq > caddy-config.json
         env:
           FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
 
@@ -26,4 +26,5 @@ jobs:
           git config user.email github-actions@github.com
           git add caddy-config.json
           git commit -m "$commit_message"
+          git remote set-url origin https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}
           git push

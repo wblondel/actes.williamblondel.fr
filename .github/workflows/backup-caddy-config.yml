@@ -21,7 +21,18 @@ jobs:
         env:
           FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
 
+      - name: Check for changes
+        id: check-changes
+        run: |
+          if [[ -n $(git status -s) ]]; then
+            echo "Changes detected"
+          else
+            echo "No changes to commit"
+            exit 0
+          fi
+
       - name: Commit new Caddy Config
+        if: ${{ steps.check-changes.run == 'Changes detected' }}
         run: |
           current_datetime=$(date -u +"%Y-%m-%d %H:%M:%S")
           commit_message="Caddy Config AutoSave - $current_datetime"

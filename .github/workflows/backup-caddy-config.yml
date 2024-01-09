@@ -1,0 +1,28 @@
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  update-caddy-config:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: superfly/flyctl-actions/setup-flyctl@v1.4
+      - name: Fetch Caddy Config
+        id: fetch-caddy-config
+        run: |
+          caddy_config=$(flyctl ssh console --command 'cat /config/caddy/autosave.json')
+          echo "$caddy_config" > caddy-config.json
+        env:
+          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+
+      - name: Commit new Caddy Config
+        run: |
+          current_datetime=$(date -u +"%Y-%m-%d %H:%M:%S")
+          commit_message="Caddy Config AutoSave - $current_datetime"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add caddy-config.json
+          git commit -m "$commit_message"
+          git push

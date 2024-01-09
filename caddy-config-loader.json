@@ -1,0 +1,11 @@
+{
+  "admin": {
+    "config": {
+      "load": {
+        "module": "http",
+        "url": "https://raw.githubusercontent.com/wblondel/actes.williamblondel.fr/main/caddy-config.json",
+        "adapter": "json"
+      }
+    }
+  }
+}

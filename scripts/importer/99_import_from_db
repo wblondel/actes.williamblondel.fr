@@ -13,7 +13,7 @@ if [ ! -f "$sqlite_file" ]; then
 fi
 
 sqlite3 "$sqlite_file" <<EOF
-SELECT * FROM your_table;
+SELECT * FROM urls;
 -- Perform other SQLite operations here
 .quit
 EOF

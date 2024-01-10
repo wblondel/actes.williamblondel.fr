@@ -2,5 +2,5 @@ fly
 fly-cert.pub
 cert.pem
 key.pem
-scripts/importer/02-insert-data-from-backup.sql
+scripts/importer/02_insert_data_from_backup.sql
 scripts/importer/yourls.sqlite3

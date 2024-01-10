@@ -37,19 +37,19 @@ endif
 	@echo "Deleting route with ID $(id)"
 	@flyctl ssh console --command "curl -X DELETE -H 'Content-Type: application/json' $(CADDY_ADMIN_API)/id/$(id)"
 
-.PHONY: restart
+.PHONY: restart # Restart the app
 restart:
 	@flyctl apps restart
 
-.PHONY: reload
+.PHONY: reload # Gracefully shut down the server and exit the process, which will restart automatically
 reload:
 	@flyctl ssh console --command "curl -X POST $(CADDY_ADMIN_API)/stop"
 
-.PHONY: print_config
+.PHONY: print_config # Print the Caddy configuration
 print_config:
 	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)/config/" | jq
 
-.PHONY: print_routes
+.PHONY: print_routes # Print the list of routes (JSON, CSV or table format)
 print_routes:
 ifndef output_format
 	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | jq

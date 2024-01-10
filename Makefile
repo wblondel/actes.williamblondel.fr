@@ -24,6 +24,14 @@ endif
 	@flyctl ssh console --command "curl -X PUT -H 'Content-Type: application/json' -d '{\"@id\":\"$(encoded_title)\",\"input\":\"/$(shortcode)\",\"outputs\":[\"$(url)\"]}' http://127.0.0.1:2019/config/apps/http/servers/srv0/routes/0/handle/0/routes/0/handle/0/mappings/0"
 	@echo "https://actes.williamblondel.fr/$(shortcode)"
 
+.PHONY: delete # Delete a URL by ID
+delete:
+ifndef id
+	$(error id is undefined)
+endif
+	@echo "Deleting route with ID $(id)"
+	@flyctl ssh console --command "curl -X DELETE -H 'Content-Type: application/json' http://127.0.0.1:2019/id/$(id)"
+
 .PHONY: restart
 restart:
 	@flyctl apps restart

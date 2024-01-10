@@ -3,7 +3,7 @@
     "config": {
       "load": {
         "module": "http",
-        "url": "https://raw.githubusercontent.com/wblondel/actes.williamblondel.fr/main/caddy-config.json",
+        "url": "https://raw.githubusercontent.com/wblondel/actes.williamblondel.fr/main/conf/caddy-config.json",
         "adapter": "json"
       }
     }

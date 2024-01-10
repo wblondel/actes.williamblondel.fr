@@ -29,12 +29,10 @@ EOF
 # Shift to ignore the initial empty parameter
 shift
 
-# Loop through each URL in positional parameters
 for url do
     # Perform a HEAD request and retrieve only the response headers
     status_code=$(curl -Is -o /dev/null -w "%{http_code}" -A "$user_agent" -L "$url")
 
-    # Check if the status code indicates a dead link
     if [ "$status_code" = "000" ] || [ "$status_code" = "404" ] || [ "$status_code" = "500" ]; then
         echo "URL $url is possibly dead (HTTP status code: $status_code)"
         sqlite3 "$sqlite_file" "UPDATE urls SET is_dead=true WHERE url=\"$url\";"

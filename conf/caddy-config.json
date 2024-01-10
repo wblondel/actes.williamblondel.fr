@@ -24,6 +24,13 @@
                           "handler": "map",
                           "mappings": [
                             {
+                              "@id": "QUQyMiwgTWHDq2wtQ2FyaGFpeCAtIE5NRCAoMTg4MCAtIDE4ODQpLCA3RTEzNyAyNSAtIHZ1ZSA4LzI1Mg",
+                              "input": "/76880484",
+                              "outputs": [
+                                "http://sallevirtuelle.cotesdarmor.fr/EC/ecx/consult.aspx?image=090025479161774"
+                              ]
+                            },
+                            {
                               "@id": "GitHub_Personnel",
                               "input": "/ab1cdefg",
                               "outputs": [

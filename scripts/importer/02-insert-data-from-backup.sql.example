@@ -1,0 +1,4 @@
+INSERT INTO `urls`
+VALUES ('aa11bb22',
+        'https://example.org/',
+        'Example Domain', '2021-03-04 18:12:12', '127.0.0.1', 0);

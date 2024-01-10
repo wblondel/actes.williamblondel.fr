@@ -37,7 +37,7 @@ print_config:
 	@flyctl ssh console --quiet --command "curl -s http://127.0.0.1:2019/config" | jq
 
 .PHONY: print_routes
-print_config:
+print_routes:
 	@flyctl ssh console --quiet --command "curl -s http://127.0.0.1:2019/config/apps/http/servers/srv0/routes/0/handle/0/routes/0/handle/0/mappings" | jq
 
 .PHONY: help # List available commands

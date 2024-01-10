@@ -33,7 +33,7 @@ jobs:
           fi
 
       - name: Commit new Caddy Config
-        if: ${{ steps.check-changes.run == 'Changes detected' }}
+        if: ${{ steps.check-changes.outputs.stdout == 'Changes detected' }}
         run: |
           current_datetime=$(date -u +"%Y-%m-%d %H:%M:%S")
           commit_message="Caddy Config AutoSave - $current_datetime"

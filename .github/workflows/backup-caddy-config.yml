@@ -17,7 +17,7 @@ jobs:
         id: fetch-caddy-config
         run: |
           caddy_config=$(flyctl ssh console --command 'cat /config/caddy/autosave.json')
-          echo "$caddy_config" | jq > caddy-config.json
+          echo "$caddy_config" | jq > conf/caddy-config.json
         env:
           FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
 
@@ -41,6 +41,6 @@ jobs:
           commit_message="Caddy Config AutoSave - $current_datetime"
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add caddy-config.json
+          git add conf/caddy-config.json
           git commit -m "$commit_message"
           git push

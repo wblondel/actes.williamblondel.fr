@@ -37,19 +37,11 @@ endif
 	@echo "Deleting route with ID $(id)"
 	@flyctl ssh console --command "curl -X DELETE -H 'Content-Type: application/json' $(CADDY_ADMIN_API)/id/$(id)"
 
-.PHONY: restart # Restart the app
-restart:
-	@flyctl apps restart
-
-.PHONY: reload # Gracefully shut down the server and exit the process, which will restart automatically
-reload:
-	@flyctl ssh console --command "curl -X POST $(CADDY_ADMIN_API)/stop"
-
-.PHONY: print_config # Print the Caddy configuration
+.PHONY: show_config # Show the Caddy configuration
 print_config:
 	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)/config/" | jq
 
-.PHONY: print_routes # Print the list of routes (JSON, CSV or table format)
+.PHONY: show_routes # Show the list of routes (JSON, CSV or table format)
 print_routes:
 ifndef output_format
 	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | jq
@@ -62,9 +54,17 @@ else ifeq ($(output_format),csv)
 	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | jq -r '["@id", "input", "outputs"], (.[] | [.["@id"], .input, .outputs[]]) | @csv'
 else
 	@echo "Invalid output format: $(output_format)"
-	@echo "Should be json or table"
+	@echo "Should be json, table, or csv"
 endif
 endif
+
+.PHONY: restart_app # Restart the app
+restart_app:
+	@flyctl apps restart
+
+.PHONY: stop_caddy # Gracefully shut down Caddy and exit the process (app will restart automatically)
+stop_caddy:
+	@flyctl ssh console --command "curl -X POST $(CADDY_ADMIN_API)/stop"
 
 .PHONY: help # List available commands
 help:

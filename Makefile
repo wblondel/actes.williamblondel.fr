@@ -62,7 +62,7 @@ else ifeq ($(output_format),csv)
 	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | jq -r '["@id", "input", "outputs"], (.[] | [.["@id"], .input, .outputs[]]) | @csv'
 else
 	@echo "Invalid output format: $(output_format)"
-	@echo "Should be json or table"
+	@echo "Should be json, table, or csv"
 endif
 endif
 

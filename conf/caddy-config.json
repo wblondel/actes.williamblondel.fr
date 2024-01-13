@@ -24,6 +24,34 @@
                           "handler": "map",
                           "mappings": [
                             {
+                              "@id": "QUQ3NiwgRWN0b3QtbCdBdWJlciAtIE5NRCAoMTgzMyAtIDE4MzQpLCA0IEUgNjcyMyAtIHZ1ZSAzMC8zMg",
+                              "input": "/ucm1cnh1",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/663546935e6f21cc2d6930fd07bb6aa1/dao/0/30"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgRWN0b3QtbCdBdWJlciAtIE5NRCAoMTc5Ni8wOS8yMiAtIDE4MDEvMDkvMjIpLCA0IEUgNjcyMSAtIHZ1ZSAxMS8xMDM",
+                              "input": "/t36ai538",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/4712aafef65c49e2731f992b4c086f06/dao/0/11"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgRWN0b3QtbCdBdWJlciAtIE5NRCAoMTc5MyAtIDE3OTUvMDkvMjIpLCA0IEUgNjcyMSAtIHZ1ZSA1Ny85Mw",
+                              "input": "/ovncru9c",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/e7bd72518defe3f0c1792c4e34d1cf92/dao/0/57"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgRWN0b3QtbCdBdWJlciAtIE5NRCAoMTgxMiAtIDE4MTYpLCA0IEUgNjcyMiAtIHZ1ZSA1LzEwMg",
+                              "input": "/ieqot9go",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/eb81eaafcd1fdd18d1a005127b185c16/dao/0/5"
+                              ]
+                            },
+                            {
                               "@id": "QUQ3NywgQ2hhbmdpcy1zdXItTWFybmUgLSBOTUQgKDE4OTIgLSAxOTEyKSwgNkU4Ny81",
                               "input": "/zm9ltzkm",
                               "outputs": [

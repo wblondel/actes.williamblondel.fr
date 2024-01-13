@@ -178,13 +178,6 @@
                               ]
                             },
                             {
-                              "@id": "",
-                              "input": "/ucm1cnh1",
-                              "outputs": [
-                                "https://www.archivesdepartementales76.net/ark:/50278/663546935e6f21cc2d6930fd07bb6aa1/dao/0/30"
-                              ]
-                            },
-                            {
                               "@id": "QUQ3NiwgSGF2cmUgKExlKSAtIE4gKDE5MTApLCA0IEUgMTk5NjAgLSB2dWUgMzYvNTY2",
                               "input": "/u5fjt1p8",
                               "outputs": [
@@ -217,13 +210,6 @@
                               "input": "/tc2wftcd",
                               "outputs": [
                                 "https://www.archivesdepartementales76.net/ark:/50278/2d2d85cfc0b119580d886c7b085ab5c3/dao/0/133"
-                              ]
-                            },
-                            {
-                              "@id": "",
-                              "input": "/t36ai538",
-                              "outputs": [
-                                "https://www.archivesdepartementales76.net/ark:/50278/4712aafef65c49e2731f992b4c086f06/dao/0/11"
                               ]
                             },
                             {
@@ -343,13 +329,6 @@
                               "input": "/oxnqjb8u",
                               "outputs": [
                                 "https://archives.eure.fr/ark:/26335/a011440744728cAeaU5/8b3ae202cf"
-                              ]
-                            },
-                            {
-                              "@id": "",
-                              "input": "/ovncru9c",
-                              "outputs": [
-                                "https://www.archivesdepartementales76.net/ark:/50278/e7bd72518defe3f0c1792c4e34d1cf92/dao/0/57"
                               ]
                             },
                             {
@@ -497,13 +476,6 @@
                               "input": "/ift7rlft",
                               "outputs": [
                                 "https://archives.hauts-de-seine.fr/ark:/74903/vtacff571684a5b4e57/dao/0/17"
-                              ]
-                            },
-                            {
-                              "@id": "",
-                              "input": "/ieqot9go",
-                              "outputs": [
-                                "https://www.archivesdepartementales76.net/ark:/50278/eb81eaafcd1fdd18d1a005127b185c16/dao/0/5"
                               ]
                             },
                             {

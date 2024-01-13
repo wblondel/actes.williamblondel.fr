@@ -54,7 +54,7 @@ This commands pretty prints the JSON full Caddy configuration.
 
 ###  Show the list of routes
 ```sh
-make output_format=table print_routes
+make output_format=table show_routes
 ```
 
 This command shows the list of routes defined in the Caddy configuration.

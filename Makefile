@@ -38,11 +38,11 @@ endif
 	@flyctl ssh console --command "curl -X DELETE -H 'Content-Type: application/json' $(CADDY_ADMIN_API)/id/$(id)"
 
 .PHONY: show_config # Show the Caddy configuration
-print_config:
+show_config:
 	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)/config/" | jq
 
 .PHONY: show_routes # Show the list of routes (JSON, CSV or table format)
-print_routes:
+show_routes:
 ifndef output_format
 	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | jq
 else

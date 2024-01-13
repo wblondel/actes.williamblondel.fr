@@ -6,7 +6,7 @@ include .env
 export
 
 # Function to encode a string to base64url
-base64url_encode = $(shell printf '%s' '$1' | openssl base64 -e -A | tr '+/' '-_' | tr -d '=')
+base64url_encode = $(shell printf '%s' "$1" | openssl base64 -e -A | tr '+/' '-_' | tr -d '=')
 
 .PHONY: all
 all:

@@ -3,3 +3,5 @@ fly-cert.pub
 cert.pem
 key.pem
 .env
+scripts/importer/02_insert_data_from_backup.sql
+scripts/importer/yourls.sqlite3

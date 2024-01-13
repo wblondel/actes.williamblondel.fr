@@ -1,12 +1,14 @@
 .DEFAULT_GOAL := help
-
 MAPPINGS_ROUTE := "/config/apps/http/servers/srv0/routes/0/handle/0/routes/0/handle/0/mappings"
+# Thank you Renaud Pacalet!
+# @see https://stackoverflow.com/a/53865416/2699597
+NULL :=
+TAB := $(NULL)	$(NULL)
 
 include .env
 export
 
-# Function to encode a string to base64url
-base64url_encode = $(shell printf '%s' "$1" | openssl base64 -e -A | tr '+/' '-_' | tr -d '=')
+base64url_encode = $(shell printf '%s' "$1" | base64 | tr '/+' '_-' | tr -d '=')
 
 .PHONY: all
 all:
@@ -49,9 +51,12 @@ else
 ifeq ($(output_format),json)
 	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | jq
 else ifeq ($(output_format),table)
-	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | jq -r '["@id", "input", "outputs"], (.[] | [.["@id"], .input, .outputs[]]) | @tsv' | column -t
+	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | \
+		jq -r 'map(.["@id"] |= @base64d) | ["@id", "input", "outputs"], (.[] | [.["@id"], .input, .outputs[]]) | @tsv' | \
+		column -t -s'$(TAB)'
 else ifeq ($(output_format),csv)
-	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | jq -r '["@id", "input", "outputs"], (.[] | [.["@id"], .input, .outputs[]]) | @csv'
+	@flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | \
+		jq -r 'map(.["@id"] |= @base64d) | ["@id", "input", "outputs"], (.[] | [.["@id"], .input, .outputs[]]) | @csv'
 else
 	@echo "Invalid output format: $(output_format)"
 	@echo "Should be json, table, or csv"

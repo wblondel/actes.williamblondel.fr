@@ -925,13 +925,6 @@
                               "outputs": [
                                 "https://www.archivesdepartementales76.net/ark:/50278/7da80437312afd782fbf3fb5d69e271e/dao/0/110"
                               ]
-                            },
-                            {
-                              "@id": "GitHub_Personnel",
-                              "input": "/ab1cdefg",
-                              "outputs": [
-                                "https://github.com/wblondel"
-                              ]
                             }
                           ],
                           "source": "{http.request.uri.path}"

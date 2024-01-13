@@ -24,6 +24,797 @@
                           "handler": "map",
                           "mappings": [
                             {
+                              "@id": "QUQ1MCwgR3JhbnZpbGxlLCBOTUQgKDE4OTApLCAzRSAyMTgvNjYgLSB2dWUgMTQwLzI3NA",
+                              "input": "/voeifgvr",
+                              "outputs": [
+                                "https://www.archives-manche.fr/ark:/57115/s005e5e5c1d243ff/5e5e5c22a8920.ef=2&s=14"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgTW9udGl2aWxsaWVycyAtIE0gKDE5MTYpLCA0IEUgMjA0ODAgLSB2dWUgOS81MA",
+                              "input": "/veswqi82",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/58732f1a995c3e66c23674f629c0c77a/dao/0/9"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBOICgxODQyKSwgRV9OVU1fQlJHNjkgLSB2dWUgNi85",
+                              "input": "/uy552qb3",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vta1e7b340c35e57af7/dao/0/6"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5NCwgRnJlc25lcyAtIE4gKDE4MTMgLSAxODIyKSwgRURFUE9UL0ZSRU5FUy8xRTE1IC0gdnVlIDYxLzYz",
+                              "input": "/ux5wxjgt",
+                              "outputs": [
+                                "https://archives.valdemarne.fr/ark:71138/s005bb61e55609ae/5bb61e559c8fc.fiche=arko_fiche_62e10d3454fc0.moteur=arko_default_6303325b22a2d"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBOICgxODM1KSwgRV9OVU1fQlJHNjIgLSB2dWUgOC8xNA",
+                              "input": "/ulah5b2w",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vta26d7a95a69607730/dao/0/8"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODQwKSwgNCBFIDgwNTEgLSB2dWUgMjI2LzMyOQ",
+                              "input": "/ul0xavlb",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/2d2d85cfc0b119580d886c7b085ab5c3/dao/0/226"
+                              ]
+                            },
+                            {
+                              "@id": "",
+                              "input": "/ucm1cnh1",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/663546935e6f21cc2d6930fd07bb6aa1/dao/0/30"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgSGF2cmUgKExlKSAtIE4gKDE5MTApLCA0IEUgMTk5NjAgLSB2dWUgMzYvNTY2",
+                              "input": "/u5fjt1p8",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/15bdeb6f3c8c4f6f79c06eee60657512/dao/0/39"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBOICgxODY0KSwgRV9OVU1fQlJHOTEgLSB2dWUgNS8xNA",
+                              "input": "/ty7u6366",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vtad7905a397abf9ffa/dao/0/5"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODI5KSwgNCBFIDgwNDIgLSB2dWUgMTQyLzM1OQ",
+                              "input": "/twli7479",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/af20d0db01ef0358e515789d1b05ba86/dao/0/142"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgU2NlYXV4IC0gTSAoMTg1NiksIEVfTlVNX1NDRTE4NCAtIHZ1ZSAyMy8yNg",
+                              "input": "/ti3lcuea",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vtafa1c723aa90ee6b5/dao/0/23"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODQwKSwgNCBFIDgwNTEgLSB2dWUgMTMzLzMyOQ",
+                              "input": "/tc2wftcd",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/2d2d85cfc0b119580d886c7b085ab5c3/dao/0/133"
+                              ]
+                            },
+                            {
+                              "@id": "",
+                              "input": "/t36ai538",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/4712aafef65c49e2731f992b4c086f06/dao/0/11"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ4OCwgR2VuZHJldmlsbGUgLSBOTUQgKDE5MDEgLSAxOTAyKSwgNEUxOTgvOC04Mjk1OSAtIHZ1ZSAyMi8yNw",
+                              "input": "/t07riocc",
+                              "outputs": [
+                                "https://recherche-archives.vosges.fr/ark:/50275/vta528b8036f268c/daogrp/0/22"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MSwgV2lzc291cyAtIE5NRCAoYW4gWEkgLSAxODEwKSwgNEUvMzA1NCAtIHZ1ZSAyMDQvMjE1",
+                              "input": "/swpzg66w",
+                              "outputs": [
+                                "https://archives.essonne.fr/ark:/28047/ds15jbkrcnx7/fa287181-b328-4973-a910-2d4d7bf1c3e4"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTjDqCAtIEQgKDE4NzEvMDkvMDcgLSAxODcxLzEwLzA5KSwgVjRFIDQ4ODA",
+                              "input": "/so7takyg",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDkiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjI0OTY5O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQmVydHJldmlsbGUgLSBOTUQgKDE4MzcgLSAxODM5KSwgNCBFIDY0MTcgLSB2dWUgOC8yMw",
+                              "input": "/sfugwqs2",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/189865ce92c7d9e9821e9bc23d440382/dao/0/8"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBOICgxODczKSwgRV9OVU1fQlJHMTAwIC0gdnVlIDUvMjc",
+                              "input": "/s7sv57s0",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vta2442226c662768ea/dao/0/5"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBNICgxODYyKSwgRV9OVU1fQlJHMTcxIC0gdnVlIDcvMTg",
+                              "input": "/rtzwzf14",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vta26c876ec815559c9/dao/0/7"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBOICgxODQwKSwgRV9OVU1fQlJHNjcgLSB2dWUgNS84",
+                              "input": "/rn59qy3l",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vtaccc7cfe5479619e2/dao/0/5"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBEICgxODA3KSwgRV9OVU1fQlJHMTk4IC0gdnVlIDQvMTM",
+                              "input": "/r9pdcfz3",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vta2c2f5b987c81ef4f/dao/0/4"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODMxKSwgNCBFIDgwNDQgLSB2dWUgOTQvMzkx",
+                              "input": "/qvt9oxnb",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/a431e9c174870bd179e70e5d447d3a90/dao/0/94"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODI5KSwgNCBFIDgwNDIgLSB2dWUgMTU3LzM1OQ",
+                              "input": "/qm8h0j9i",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/af20d0db01ef0358e515789d1b05ba86/dao/0/157"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMDTDqCAtIE4gKDE4OTUvMDkvMjEgLSAxODk1LzEwLzA4KSwgVjRFIDgyNjA",
+                              "input": "/qltxdtc3",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDYiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjQzNDQzO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMjDDqCAtIE4gKDE5MDMvMDUvMjAgLSAxOTAzLzA1LzIzKSwgMjBOIDIzMw",
+                              "input": "/qcg0b2s6",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDYtMzAiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjgzMjY2O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQxNCwgUmV2aWVycyAtIE5NRCAoMTgxOCAtIDE4MjIpLCA1IE1JIDQgLSB2dWUgMTI2LzE3NQ",
+                              "input": "/pgym784f",
+                              "outputs": [
+                                "https://archives.calvados.fr/ark:/52329/6kztd0bwfxmc/6ab1a772-9cc0-4e81-aab1-06d4098e3f9d"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgRsOpY2FtcCAtIEQgKDE5MjAvMDcvMDUgLSAxOTIwLzEyLzMxKSwgNCBFIDE5NzU4IC0gdnVlIDcvODM",
+                              "input": "/p9xb381r",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/7daf7b153a14a2f3c478866986f145ca/dao/0/7"
+                              ]
+                            },
+                            {
+                              "@id": "QUQyNywgSXZyeS1sYS1CYXRhaWxsZSAtIE5NRCAoMTg2MyAtIDE4ODIpLCA4IE1pIDQ4NzIgLSB2dWUgMjcwLzgxMw",
+                              "input": "/p40za7sl",
+                              "outputs": [
+                                "https://archives.eure.fr/ark:/26335/a011440744728uCeB2t/bdb684d7ea"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ1NCwgSHVzc2lnbnktR29kYnJhbmdlLCBOTUQgKDE4NTMgLSAxODc5KSwgNSBNaSAyNjgvUiAzIC0gdnVlIDE2MC81ODI",
+                              "input": "/p143uciu",
+                              "outputs": [
+                                "https://archivesenligne.archives.cg54.fr/ark:33175/s0054ad10ea54ed2/54afad1b6d021.fiche=arko_fiche_62bc4d827586f.moteur=arko_default_62bc67565d099"
+                              ]
+                            },
+                            {
+                              "@id": "QUQyNywgSXZyeS1sYS1CYXRhaWxsZSAtIE5NRCAoMTg4MyAtIDE5MDIpLCA4IE1pIDQ4NzMgLSB2dWUgNTEyLzg1Ng",
+                              "input": "/oxnqjb8u",
+                              "outputs": [
+                                "https://archives.eure.fr/ark:/26335/a011440744728cAeaU5/8b3ae202cf"
+                              ]
+                            },
+                            {
+                              "@id": "",
+                              "input": "/ovncru9c",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/e7bd72518defe3f0c1792c4e34d1cf92/dao/0/57"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODE5KSwgNCBFIDgwMzUgLSB2dWUgMTQ2LzIwMw",
+                              "input": "/osjprooy",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/34e497aa1e9e3a7aab15abe3ad0cb544/dao/0/146"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODI4KSwgNCBFIDgwNDEsIHZ1ZSAyNjIvMzY5",
+                              "input": "/or85ihg8",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/28b74b2b540862ee653d19a4a4083278/dao/0/262"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgU2FpbnQtTGF1cmVudC1kZS1CcsOodmVkZW50IC0gQk1TICgxNzU3IC0gMTc1OSksIDQgRSAyOTQ0IC0gdnVlIDExLzIz",
+                              "input": "/or46r7np",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/5aaa3cb39083932682420fae9e563c44/dao/0/11"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ1NCwgVmlsbGVycy1sYS1Nb250YWduZSwgTk1EICgxODkwIC0gMTg5OSksIDIgTWktRUMgNTc0L1IgMiAtIHZ1ZSAyNzMvMzg4",
+                              "input": "/octz1hij",
+                              "outputs": [
+                                "https://archivesenligne.archives.cg54.fr/ark:33175/s0054ad10edd8839/54ae9acfa9058.fiche=arko_fiche_62bc4e2975eb0.moteur=arko_default_62bc67565d099"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTfDqCAtIE4gKDE5MDIvMDYvMTYgLSAxOTAyLzA3LzAyKSwgVjRFIDEwMjU1",
+                              "input": "/o6xvqxcp",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDciO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjU0MzExO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTHDqCAtIEQgKDE5NDQvMDEvMDEgLSAxOTQ0LzAyLzEwKSwgMTFEIDM0NQ",
+                              "input": "/ncenhcz3",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMjQiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6Mjc4MjM5O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODM1KSwgNCBFIDgwNDcgLSB2dWUgMjQwLzM5MA",
+                              "input": "/nazkvqwg",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/77caac3eaddaa007b8da89dcdfd6b68f/dao/0/240"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODMwKSwgNCBFIDgwNDMgLSB2dWUgMTMzLzM4Mw",
+                              "input": "/mxddqw9e",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/92e833fd337ae1eaaa2713404c097122/dao/0/133"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBSZWNlbnNlbWVudCAoMTg0NiksIERfTlVNX0JSR18xODQ2IC0gdnVlIDIxLzI1",
+                              "input": "/mowkh3hv",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vta9fa7c1ae7e171fd3/dao/0/21"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODM4KSwgNCBFIDgwNDkgLSB2dWUgMTYwLzQxMw",
+                              "input": "/mldf4ftg",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/b507585b45493f6aa1a0858b61f452cf/dao/0/160"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgRsOpY2FtcCAtIE4gKDE5MTQpLCA0IEUgMTk3MzEgLSB2dWUgMTIxLzIwOA",
+                              "input": "/mhqa3dct",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/87fd8ce9d9a3fa26e7a8cde824e92687/dao/0/121"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgUm91ZW4gLSBOICgxODY0LzAxLzAxIC0gMTg2NC8wMi8yNyksIDMgRSA5OTkgLSB2dWUgNC8xMTg",
+                              "input": "/mcfhs635",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/c6617be8f43094020719301c57361332/dao/0/4"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODM4KSwgNCBFIDgwNDkgLSB2dWUgMTAvNDEz",
+                              "input": "/l7cyhgle",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/b507585b45493f6aa1a0858b61f452cf/dao/0/10"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTHDqCAtIE0gKDE4OTUvMDgvMjAgLSAxODk1LzA4LzMxKSwgVjRFIDkxNjg",
+                              "input": "/kylruaj1",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMjQiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjQ4MzI0O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QU0gTGUgSGF2cmUgLSBNICgxOTM4IFNlbWVzdHJlIDEpLCAxRUM5NzMgLSB2dWUgOTkvMzU2",
+                              "input": "/ku5gmhqi",
+                              "outputs": [
+                                "https://avenio.lehavre.fr/4DCGI/WEB_RegistreVisuImgAppelExterne/530329_1EC973/ILUMP9999"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgTsOpdmlsbGUgLSBCTVMgKDE3ODUgLSAxNzg5KSwgNCBFIDMyMTggLSB2dWUgNDkvMTI1",
+                              "input": "/jxfwmkij",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/ecb91303b67d3dbfb566fc903dbd2f65/dao/0/49"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgTW9udGl2aWxsaWVycyAtIE4gKDE5MTYpLCA0IEUgMjA0NzcgLSB2dWUgMTYvMTAz",
+                              "input": "/joa5nq2z",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/2a4edd8cd15b0f2226b1afb6ae1f8446/dao/0/16"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTXDqCAtIE4gKDE4NzAvMDcvMDcgLSAxODcwLzA4LzAzKSwgVjRFIDE5MDI",
+                              "input": "/jmtlom7j",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMTQiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjA5MDkwO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBOICgxODM3KSwgRV9OVU1fQlJHNjQgLSB2dWUgNS8xNg",
+                              "input": "/j7hcm9kv",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vtaceae28478fb0d05f/dao/0/5"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTLDqCAtIE4gKDE5MDIvMDYvMDMgLSAxOTAyLzA2LzE2KSwgVjRFIDk0Njk",
+                              "input": "/j5m8ulj9",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDYiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjUwMDU1O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBOICgxODc2KSwgRV9OVU1fQlJHMTAzIC0gdnVlIDE3LzIw",
+                              "input": "/ift7rlft",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vtacff571684a5b4e57/dao/0/17"
+                              ]
+                            },
+                            {
+                              "@id": "",
+                              "input": "/ieqot9go",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/eb81eaafcd1fdd18d1a005127b185c16/dao/0/5"
+                              ]
+                            },
+                            {
+                              "@id": "UmV0cm9OZXdzLCBMYSBEw6lww6pjaGUgZHUgQmVycnkgLSAyMyBzZXB0ZW1icmUgMTkyOSAtIHZ1ZSAzLzQ",
+                              "input": "/idcjofnu",
+                              "outputs": [
+                                "https://www.retronews.fr/journal/la-depeche-du-berry/23-septembre-1929/693/2203363/3"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTHDqCAtIEQgKDE4OTUvMDcvMjMgLSAxODk1LzA4LzE0KSwgVjRFIDkxNzQ",
+                              "input": "/idb79tqu",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMjUiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjQ4MzU2O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgRsOpY2FtcCAtIEQgKDE5MjEvMDEvMDEgLSAxOTIxLzA3LzI4KSwgNCBFIDE5NzYxIC0gdnVlIDI0LzYz",
+                              "input": "/i4b8xrlp",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/1672a53b33a018c7b7bb88ed2ec172ff/dao/0/24"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTXDqCAtIE4gKDE4OTQvMDEvMTEgLSAxODk0LzAxLzI3KSwgVjRFIDk4NTE",
+                              "input": "/i3zp4owo",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMTQiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjUyMTkxO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQmVydGhlYXV2aWxsZSAtIE5NRCAoMTg3NyksIDQgRSA2NDEyIC0gdnVlIDEwLzEy",
+                              "input": "/i1ifxtez",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/da24f260055623eeccf3801aadab4632/dao/0/10"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgU2FpbnQtVmFsZXJ5LWVuLUNhdXggLSBOTUQgKDE5MDMpLCA0IEUgNzQ1NyAtIHZ1ZSA5NC8xMzY",
+                              "input": "/hie5xgfq",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/7ff7c923a7a3aef81dc5f9ab7c36aae4/dao/0/94"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3OCwgTWFudGVzLWxhLVZpbGxlIC0gRCAoMTkzNCksIDRFIDY2NzIgLSB2dWUgMTkvMjk",
+                              "input": "/h562mg4f",
+                              "outputs": [
+                                "https://archives.yvelines.fr/ark:36937/s0058a7bda5c5124/58a80b5123f20.fiche=arko_fiche_61950fc2b2786.moteur=arko_default_618914e3ee7e4"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ1MCwgR3JhbnZpbGxlLCBOTUQgKDE4NjkpLCAzRSAyMTgvNDUgLSB2dWUgOC8yNjE",
+                              "input": "/fx0i4ysc",
+                              "outputs": [
+                                "https://www.archives-manche.fr/ark:/57115/s005e5e5072d1e6e/5e5e507301f79.ef=2&s=14"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTjDqCAtIE0gKDE5MTMvMDIvMTMgLSAxOTEzLzAyLzI1KSwgMThNIDQzOQ",
+                              "input": "/fsbkwsan",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjEtMTEtMjAiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6Mjk2NTI3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODI5KSwgNCBFIDgwNDIgLSB2dWUgMy8zNTk",
+                              "input": "/f8yhu9b0",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/af20d0db01ef0358e515789d1b05ba86/dao/0/3"
+                              ]
+                            },
+                            {
+                              "@id": "UmV0cm9OZXdzLCBMZSBHdWV0dGV1ciBkZSBTYWludC1RdWVudGluIGV0IGRlIGzigJlBaXNuZSAtIDMxIG1haSAxOTA3IC0gdnVlIDIvNA",
+                              "input": "/evxjjphg",
+                              "outputs": [
+                                "https://www.retronews.fr/journal/le-guetteur-de-saint-quentin-et-de-l-aisne/31-mai-1907/819/2388945/2"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgRsOpY2FtcCAtIE5NRCAoMTgzNSksIDQgRSA4MzI0IC0gdnVlIDExMS8zNTY",
+                              "input": "/e4y4lqqd",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/b5ab8e41f3ca862a5160251a1506f54e/dao/0/111"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ2MCwgQ2hhbnRpbGx5LCBOTUQgKEFuIElWIC0gYXZyaWwgMTgwOCksIDVNSTIxNjUgLSB2dWUgNDg3LzY4Mw",
+                              "input": "/dx3a1mgx",
+                              "outputs": [
+                                "https://ressources.archives.oise.fr/v2/ark:/44803/g8e39ab9a268f72b78d4eb81711ed7a64/4df3b31857a64175f84403670dcc0f09/487/YWQ2MF81bWkyMTY1XzA0ODdfZS5qcGc="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQmVydGhlYXV2aWxsZSAtIE5NRCAoMTg3MiAtIDE4NzMpLCA0IEUgNjQxMiAtIHZ1ZSAyOS8zMg",
+                              "input": "/dk7redhg",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/83f504042f216ba98c2e2a66f5fcedc3/dao/0/29"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTTDqCAtIEQgKDE5MDMvMTIvMTggLSAxOTAzLzEyLzMxKSwgMTREIDIwNQ",
+                              "input": "/coujztcv",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMjEiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjYzOTA1O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgUmVtdcOpZSAoTGEpIC0gTk1EICgxODg2KSwgNCBFIDEyNTY2IC0gdnVlIDExLzMw",
+                              "input": "/cf5ux1e0",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/53623d4003961f2d889a89a5f3fede0a/dao/0/11"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQ2FueSAtIEJNUyAoMTc1NSAtIDE3NTgpLCA0IEUgMzEwNyAtIHZ1ZSA3NC83Ng",
+                              "input": "/ccliybul",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/b7c66188f94443eda203117bfdecfaa7/dao/0/74"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBEICgxODc1KSwgRV9OVU1fQlJHMjY2IC0gdnVlIDkvMTQ",
+                              "input": "/awudsaes",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vta7a92b7df8d0a2381/dao/0/9"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTHDqCAtIE4gKDE4OTUvMDUvMDkgLSAxODk1LzA1LzE5KSwgVjRFIDkxNTg",
+                              "input": "/auoih1pw",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDYiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjQ4MjU3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MSwgRHJhdmVpbCAtIFJlY2Vuc2VtZW50ICgxOTMxKSwgNk0vMTExIC0gdnVlIDg5LzI4MA",
+                              "input": "/appsjhhm",
+                              "outputs": [
+                                "https://archives.essonne.fr/ark:/28047/4jl2gt1905dw/929edb06-b393-4856-aee4-e45dd731c2c5"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBOICgxODAxLzA5LzIzIC0gMTgwMi8wOS8yMyksIEVfTlVNX0JSRzI5IC0gdnVlIDcvMTI",
+                              "input": "/apbay5x0",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vta7ba75fef7923903b/dao/0/7"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQXVmZmF5IC0gTk1EICgxODgyKSwgNCBFIDEwNTQyIC0gdnVlIDM5LzYy",
+                              "input": "/a4mdeakr",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/b541c90181143e80f4e6eddeb8cddcb0/dao/0/39"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgUm91ZW4gLSBNICgxODY1LzAxLzAxIC0gMTg2NS8wMy8zMSksIDMgRSA5OTkgLSB2dWUgNDIvMTM2",
+                              "input": "/8tsjnr9z",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/0e455c17a019862104caf89b8d7feada/dao/0/42"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTHDqCAtIE4gKDE4OTMvMDYvMDggLSAxODkzLzA2LzIwKSwgVjRFIDkxMTg",
+                              "input": "/8t338zy1",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDYiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjQ4MDA2O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODM1KSwgNCBFIDgwNDcgLSB2dWUgNDgvMzkw",
+                              "input": "/8sp6hhwo",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/77caac3eaddaa007b8da89dcdfd6b68f/dao/0/48"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODAzLzA5LzI0IC0gMTgwNC8wOS8yMiksIDQgRSA4MDI4IC0gdnVlIDEwLzExMQ",
+                              "input": "/8skqcntz",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/a5f0418b52f4a3fc7ea1760891cf3f6e/dao/0/10"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTDDqCAtIEQgKDE5NDgvMDYvMTAgLSAxOTQ4LzA3LzEyKSwgMTBEIDQ4OA",
+                              "input": "/8g0pk2mr",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDYtMTQiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjcxMDE5O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3OCwgTWFudGVzLWxhLVZpbGxlIC0gRCAoMTk0MCksIDRFIDg0NjUgLSB2dWUgMjQvMzA",
+                              "input": "/844y1how",
+                              "outputs": [
+                                "https://archives.yvelines.fr/ark:36937/s0059c6b4e6c0ea5/59c6b4e6d2e72.fiche=arko_fiche_61950fcde4c28.moteur=arko_default_618914e3ee7e4"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTPDqCAtIEQgKDE5NzIvMDEvMjUgLSAxOTcyLzAyLzIyKSwgMTNEIDQ2NA",
+                              "input": "/83n4o5f4",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjEtMDItMTIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjcyNjgzO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODM5KSwgNCBFIDgwNTAgLSB2dWUgMzQzLzM3MA",
+                              "input": "/7ofhr336",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/a4f037b4aba3ab1f561128c8ddd6383c/dao/0/343"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODIwKSwgNCBFIDgwMzUgLSB2dWUgMTk4LzIwMw",
+                              "input": "/7ht4axgt",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/02d19362b36905f0a5591ec1cf1e1ac7/dao/0/198"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTLDqCAtIEQgKDE5NzUvMTAvMDMgLSAxOTc1LzExLzA2KSwgMTJEIDUzNg",
+                              "input": "/7e5dfj6g",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMTUiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjcyMTU2O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQW50b255IC0gTSAoMTg0NCksIEVfTlVNX0FOVDE3MCAtIHZ1ZSAxMS8xOA",
+                              "input": "/7b85cxw1",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vta58ffeee17c074fc9/dao/0/11"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgUm91ZW4gLSBEICgxODg0LzEwLzAxIC0gMTg4NC8xMi8zMSksIDMgRSA5OTkgLSB2dWUgOTYvMTcy",
+                              "input": "/6zyzx6w3",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/e6933213cf84688e0c56c7ce92b66111/dao/0/96"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQ2FueSAtIEJNUyAoMTc1NSAtIDE3NTgpLCA0IEUgMzEwNyAtIHZ1ZSAzOS83Ng",
+                              "input": "/6h43u1by",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/b7c66188f94443eda203117bfdecfaa7/dao/0/39"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODIzKSwgNCBFIDgwMzcgLSB2dWUgMTYyLzIwMw",
+                              "input": "/6bslk7md",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/dafa5e72797ccd43b937a52cc3157a0a/dao/0/162"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgRsOpY2FtcCAtIE4gKDE5MTUpLCA0IEUgMTk3MzUgLSB2dWUgODEvMjAw",
+                              "input": "/69jxptke",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/642bce4ca6eda3ddb82304dc48ea0d08/dao/0/81"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MSwgRHJhdmVpbCAtIFJlY2Vuc2VtZW50ICgxOTI2KSwgNk0vMTExIC0gdnVlIDE2Mi8yMDI",
+                              "input": "/694iuzco",
+                              "outputs": [
+                                "https://archives.essonne.fr/ark:/28047/gft9s4qvjndz/ccd418a7-9a46-4547-b37e-80aeaf95a2bd"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMDTDqCAtIE4gKDE4OTMvMDYvMTMgLSAxODkzLzA3LzAzKSwgVjRFIDgyMzY",
+                              "input": "/60bp0qre",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDYiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjQzMjQ2O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODI3KSwgNCBFIDgwNDAgLSB2dWUgMTI3LzM3OA",
+                              "input": "/5hoxtc7n",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/cf4a299381eb8dfc530bd7c2c690228c/dao/0/127"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODQwKSwgNCBFIDgwNTEgLSB2dWUgMTk5LzMyOQ",
+                              "input": "/4zm4fqok",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/2d2d85cfc0b119580d886c7b085ab5c3/dao/0/199"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgKHBhcm9pc3NlIFNhaW50LUdpbGxlcyBTYWludC1MZXUpIC0gQk1TICgxNzc3IC0gMTc5MSksIEVfTlVNX0JSR19CTVNfOSAtIHZ1ZSAxNy8xNzk",
+                              "input": "/4mx0xqvj",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vtaefd1743ff19be4bc/dao/0/17"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBNICgxODM5KSwgRV9OVU1fQlJHMTQ4IC0gdnVlIDcvOQ",
+                              "input": "/4i72jkob",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vtafdb1e22e7c412acc/dao/0/7"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTjDqCAtIE0gKDE5MTcvMDIvMjggLSAxOTE3LzA4LzI1KSwgMThNIDQ3NQ",
+                              "input": "/4fxosaef",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjEtMDItMDIiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6Mjk2NjgxO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODIzKSwgNCBFIDgwMzcgLSB2dWUgMTQvMjAz",
+                              "input": "/40esv0ti",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/dafa5e72797ccd43b937a52cc3157a0a/dao/0/14"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgRsOpY2FtcCAtIE4gKDE5MTMpLCA0IEUgMTk3MjcgLSB2dWUgNDUvMjAw",
+                              "input": "/40ba5eg7",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/305b953affe526e71f901b7059a18ad9/dao/0/45"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgUm91ZW4gLSBNICgxODYxLzA3LzAxIC0gMTg2MS8wOS8zMCksIDMgRSA5OTkgLSB2dWUgNjUvMTY0",
+                              "input": "/3zbjkwss",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/081159448ba0dadcfbb7d10cde38d714/dao/0/65"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgRsOpY2FtcCAtIEQgKDE5MjEvMDcvMjggLSAxOTIxLzEyLzMxKSwgNCBFIDE5NzYyIC0gdnVlIDYvNjI",
+                              "input": "/3t0aov3w",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/2b840502a08959376bea739d59157367/dao/0/6"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBEICgxODY2KSwgRV9OVU1fQlJHMjU3IC0gdnVlIDMvMTM",
+                              "input": "/3oz0kkbh",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vtaf0f99fd1d6c4fa5e/dao/0/3"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBEICgxODQzKSwgRV9OVU1fQlJHMjM0IC0gdnVlIDEwLzEy",
+                              "input": "/3jvncwcx",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vtadb2780499f5a7927/dao/0/10"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQmVydGhlYXV2aWxsZSAtIE5NRCAoMTg3MiAtIDE4NzMpLCA0IEUgNjQxMiAtIHZ1ZSA0LzMy",
+                              "input": "/33n68gm6",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/83f504042f216ba98c2e2a66f5fcedc3/dao/0/4"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTHDqCAtIE4gKDE4OTUvMDcvMjQgLSAxODk1LzA4LzAxKSwgVjRFIDkxNjA",
+                              "input": "/2f7o13js",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDciO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6Mjc2OTc4O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTLDqCAtIE4gKDE4OTQvMDgvMjMgLSAxODk0LzA5LzAyKSwgVjRFIDkxNDA",
+                              "input": "/20ntnfjq",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDYiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjQ4MTQ3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ5MiwgQm91cmctbGEtUmVpbmUgLSBOICgxODM2KSwgRV9OVU1fQlJHNjMgLSB2dWUgMi85",
+                              "input": "/1uuxcl5f",
+                              "outputs": [
+                                "https://archives.hauts-de-seine.fr/ark:/74903/vta72f0b669cf8cddf4/dao/0/2"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODI0KSwgNCBFIDgwMzcgLSB2dWUgMTgwLzIyMg",
+                              "input": "/1t8zsxfk",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/33e022ba7ee4d631d18654de52006435/dao/0/180"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTHDqCAtIE4gKDE4OTMvMDEvMjUgLSAxODkzLzAyLzA1KSwgVjRFIDkxMTU",
+                              "input": "/1hrlihp3",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDYiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjQ3OTg3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTTDqCAtIEQgKDE5NzkvMDQvMjEgLSAxOTc5LzA1LzE5KSwgMTREIDYyOA",
+                              "input": "/1b3alq9o",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDUtMzEiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MjczNTU3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQyMiwgTWHDq2wtQ2FyaGFpeCAtIE5NRCAoMTg4MCAtIDE4ODQpLCA3RTEzNyAyNSAtIHZ1ZSA4LzI1Mg",
+                              "input": "/0a9f7nwg",
+                              "outputs": [
+                                "https://sallevirtuelle.cotesdarmor.fr/EC/ecx/consult.aspx?image=090025479161774"
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NSwgUGFyaXMgMTfDqCAtIEQgKDE5MjcvMTAvMTQgLSAxOTI3LzEyLzAyKSwgMTdEIDIzNg",
+                              "input": "/07kfmbla",
+                              "outputs": [
+                                "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjAtMDktMDgiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6MzA2NzAwO3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ=="
+                              ]
+                            },
+                            {
+                              "@id": "QUQ3NiwgQm9sYmVjIC0gTk1EICgxODMyKSwgNCBFIDgwNDQgLSB2dWUgMTEwLzM2NQ",
+                              "input": "/04j4354t",
+                              "outputs": [
+                                "https://www.archivesdepartementales76.net/ark:/50278/7da80437312afd782fbf3fb5d69e271e/dao/0/110"
+                              ]
+                            },
+                            {
                               "@id": "GitHub_Personnel",
                               "input": "/ab1cdefg",
                               "outputs": [

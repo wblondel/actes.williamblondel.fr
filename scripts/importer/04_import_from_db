@@ -18,7 +18,7 @@ while IFS= read -r entries; do
 done <<EOF
 $(sqlite3 "$sqlite_file" <<SQL
 .mode list
-SELECT * FROM urls;
+SELECT * FROM urls WHERE is_imported=false;
 .quit
 SQL
 )
@@ -32,4 +32,6 @@ for entries do
   title=$(echo "$entries" | cut -d '|' -f 3)
 
   make short url="$url" shortcode="$shortcode" title="$title"
+
+  sqlite3 "$sqlite_file" "UPDATE urls SET is_imported=true WHERE url=\"$url\";"
 done

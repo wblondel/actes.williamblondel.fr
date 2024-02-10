@@ -7,8 +7,10 @@ permissions:
   contents: write
 
 jobs:
-  update-caddy-config:
+  backup-caddy-config:
+    name: Backup Caddy config
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 

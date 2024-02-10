@@ -1,6 +1,6 @@
 FROM caddy:2.7.6-alpine
 
-RUN apk add bash curl --no-cache
+RUN apk add curl --no-cache
 
 COPY ./conf/caddy-config-loader.json /etc/caddy/caddy-config-loader.json
 

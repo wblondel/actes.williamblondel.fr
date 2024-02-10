@@ -32,7 +32,7 @@ endif
 delete:
 ifdef id
 	@echo "Deleting route with ID $(id)"
-	@flyctl ssh console --command "curl -s -X DELETE -H 'Content-Type: application/json' $(CADDY_ADMIN_API)/id/$(id)"
+	@flyctl ssh console --command "curl -s -X DELETE $(CADDY_ADMIN_API)/id/$(id)"
 else ifdef shortcode
 	@echo "Fetching route..."
 	@make shortcode= id=$$(flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | jq -r '.[] | select(.["input"] == "/$(shortcode)") | .["@id"]') delete

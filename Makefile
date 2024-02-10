@@ -10,9 +10,6 @@ export
 
 base64url_encode = $(shell printf '%s' "$1" | base64 | tr '/+' '_-' | tr -d '=')
 
-.PHONY: all
-all:
-
 .PHONY: short # Shorten a URL
 short:
 ifndef url

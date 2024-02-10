@@ -42,8 +42,12 @@ A `title` is required. It will be encoded to [Base64URL](https://base64.guru/sta
 ```sh
 make delete id="VGVzdCBQYWdl"
 ```
+or
+```sh
+make delete shortcode="62f21770"
+```
 
-This command allows you to delete a URL by its `id`. The `id` is the encoded title, not the `shortcode`.
+This command allows you to delete a URL by its `id` (the encoded title) or by its `shortcode`.
 
 ### Show the Caddy configuration
 ```sh

@@ -31,13 +31,17 @@ endif
 	@flyctl ssh console --command "curl -s -X PUT -H 'Content-Type: application/json' -d '{\"@id\":\"$(encoded_title)\",\"input\":\"/$(shortcode)\",\"outputs\":[\"$(url)\"]}' $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)/0"
 	@echo "$(APP_URL)/$(shortcode)"
 
-.PHONY: delete # Delete a URL by ID
+.PHONY: delete # Delete a URL by ID or shortcode
 delete:
-ifndef id
-	$(error id is undefined)
-endif
+ifdef id
 	@echo "Deleting route with ID $(id)"
 	@flyctl ssh console --command "curl -s -X DELETE -H 'Content-Type: application/json' $(CADDY_ADMIN_API)/id/$(id)"
+else ifdef shortcode
+	@echo "Fetching route..."
+	@make shortcode= id=$$(flyctl ssh console --quiet --command "curl -s $(CADDY_ADMIN_API)$(MAPPINGS_ROUTE)" | jq -r '.[] | select(.["input"] == "/$(shortcode)") | .["@id"]') delete
+else
+	$(error id or shortcode should be defined)
+endif
 
 .PHONY: show_config # Show the Caddy configuration
 show_config:

@@ -42,15 +42,19 @@ A `title` is required. It will be encoded to [Base64URL](https://base64.guru/sta
 ```sh
 make delete id="VGVzdCBQYWdl"
 ```
+or
+```sh
+make delete shortcode="62f21770"
+```
 
-This command allows you to delete a URL by its `id`. The `id` is the encoded title, not the `shortcode`.
+This command allows you to delete a URL by its `id` (the encoded title) or by its `shortcode`.
 
 ### Show the Caddy configuration
 ```sh
 make show_config
 ```
 
-This commands pretty prints the JSON full Caddy configuration.
+This command pretty prints the JSON full Caddy configuration.
 
 ###  Show the list of routes
 ```sh
@@ -67,7 +71,7 @@ Available output formats are `json`, `table`, and `csv`.
 make restart_app
 ```
 
-This commands restarts the Fly.io application.
+This command restarts the Fly.io application.
 
 ### Shut down Caddy
 ```sh

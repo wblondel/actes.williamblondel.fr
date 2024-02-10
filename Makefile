@@ -16,7 +16,7 @@ ifndef url
 	$(error url is undefined)
 endif
 ifndef shortcode
-	$(eval shortcode := $(shell dd if=/dev/urandom bs=4 count=2 2>/dev/null | xxd -p -c 4 | tr -dc 'a-zA-Z0-9' | head -c 8))
+	$(eval shortcode := $(shell dd if=/dev/urandom bs=4 count=2 2>/dev/null | xxd -p | tr -dc 'a-zA-Z0-9' | head -c 8))
 endif
 ifndef title
 	$(error title is undefined)

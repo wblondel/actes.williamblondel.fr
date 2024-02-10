@@ -79,4 +79,3 @@ make stop_caddy
 ```
 
 This command gracefully shuts down Caddy and exits the process.
-Because of the Fly.io configuration, the application restarts automatically.

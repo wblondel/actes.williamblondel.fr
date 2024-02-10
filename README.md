@@ -54,7 +54,7 @@ This command allows you to delete a URL by its `id` (the encoded title) or by it
 make show_config
 ```
 
-This commands pretty prints the JSON full Caddy configuration.
+This command pretty prints the JSON full Caddy configuration.
 
 ###  Show the list of routes
 ```sh
@@ -71,7 +71,7 @@ Available output formats are `json`, `table`, and `csv`.
 make restart_app
 ```
 
-This commands restarts the Fly.io application.
+This command restarts the Fly.io application.
 
 ### Shut down Caddy
 ```sh

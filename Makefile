@@ -71,7 +71,7 @@ endif
 restart_app:
 	@flyctl apps restart
 
-.PHONY: stop_caddy # Gracefully shut down Caddy and exit the process (app will restart automatically)
+.PHONY: stop_caddy # Gracefully shut down Caddy and exit the process
 stop_caddy:
 	@flyctl ssh console --command "curl -X POST $(CADDY_ADMIN_API)/stop"
 

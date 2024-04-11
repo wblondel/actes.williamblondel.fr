@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: superfly/flyctl-actions/setup-flyctl@1.5
+      - uses: superfly/flyctl-actions/setup-flyctl@v2
       - name: Fetch Caddy Config
         id: fetch-caddy-config
         run: |
